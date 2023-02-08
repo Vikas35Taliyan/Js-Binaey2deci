@@ -1,6 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 
 ## Live(Netlify)
+![live](https://app.netlify.com/sites/serene-frangollo-20103c/overview)
 
 # JavaScript Binary2Decimal project
 
